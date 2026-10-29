@@ -10,13 +10,13 @@
 
 iRacing 遥测记录、圈速分析、实时信息叠加与驾驶训练工具
 
-[前往 apexracing.cn 官网下载](https://apexracing.cn/)
+[前往 tracklogic.cn 官网下载](https://tracklogic.cn/)
 
 </div>
 
 TrackLogic 是面向模拟赛车玩家的桌面工具。它连接 iRacing，自动记录驾驶过程中的遥测数据，帮助你从圈速、刹车、油门、方向、轮胎、赛道位置和比赛表现中找到真正的时间损失，并把分析结果转化为下一圈可以执行的改进。
 
-目前 TrackLogic 以 **iRacing** 为主要支持对象。软件、最新版本和安装包请以 [apexracing.cn 官方网站](https://apexracing.cn/) 为准。
+目前 TrackLogic 以 **iRacing** 为主要支持对象。软件、最新版本和安装包请以 [tracklogic.cn 官方网站](https://tracklogic.cn/) 为准。
 
 ## 为什么使用 TrackLogic
 
@@ -79,13 +79,13 @@ TrackLogic 可以将实时信息显示在游戏画面上，减少驾驶过程中
 
 请从官方主页获取最新版安装包：
 
-**[https://apexracing.cn/](https://apexracing.cn/)**
+**[https://tracklogic.cn/](https://tracklogic.cn/)**
 
 官网会提供当前版本、下载入口和最新产品信息。不要从不明镜像、第三方打包站或未经确认的链接下载客户端。
 
 ## 快速开始
 
-1. 打开 [apexracing.cn](https://apexracing.cn/)，下载并安装 TrackLogic。
+1. 打开 [tracklogic.cn](https://tracklogic.cn/)，下载并安装 TrackLogic。
 2. 启动 TrackLogic，并按提示登录或创建账号。
 3. 启动 iRacing，进入练习、排位或比赛。
 4. 确认 iRacing 已开启遥测保存功能；TrackLogic 会在后台等待并采集可用数据。
@@ -104,7 +104,7 @@ TrackLogic 可以将实时信息显示在游戏画面上，减少驾驶过程中
 
 ### TrackLogic 支持哪些模拟赛车？
 
-当前版本以 iRacing 为主要支持对象。其他模拟赛车是否支持，请以 [官网兼容性说明](https://apexracing.cn/) 和软件内提示为准。
+当前版本以 iRacing 为主要支持对象。其他模拟赛车是否支持，请以 [官网兼容性说明](https://tracklogic.cn/) 和软件内提示为准。
 
 ### 安装后没有看到遥测记录怎么办？
 
@@ -116,7 +116,7 @@ TrackLogic 可以将实时信息显示在游戏画面上，减少驾驶过程中
 
 ### 在哪里获取更新和帮助？
 
-请访问 [apexracing.cn](https://apexracing.cn/) 获取最新版本、更新说明和官方支持入口。
+请访问 [tracklogic.cn](https://tracklogic.cn/) 获取最新版本、更新说明和官方支持入口。
 
 ## 关键词
 

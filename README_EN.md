@@ -10,13 +10,13 @@
 
 iRacing telemetry recording, lap analysis, live HUD, and driver-training tools
 
-[Download from apexracing.cn](https://apexracing.cn/)
+[Download from tracklogic.cn](https://tracklogic.cn/)
 
 </div>
 
 TrackLogic is a Windows desktop companion for sim racers. It connects to iRacing, records telemetry in the background, and turns driving data into practical feedback for your next lap.
 
-TrackLogic currently focuses on **iRacing**. For the latest client, installer, compatibility information, and product updates, visit the [official Apex Racing website](https://apexracing.cn/).
+TrackLogic currently focuses on **iRacing**. For the latest client, installer, compatibility information, and product updates, visit the [official TrackLogic website](https://tracklogic.cn/).
 
 ## Why TrackLogic
 
@@ -79,13 +79,13 @@ Racing Academy turns telemetry feedback into repeatable practice. Train around r
 
 Get the latest Windows installer from the official website:
 
-**[https://apexracing.cn/](https://apexracing.cn/)**
+**[https://tracklogic.cn/](https://tracklogic.cn/)**
 
 The official website is the source for the current version, installer, compatibility information, and product updates. Avoid downloading the client from unknown mirrors or repackaged third-party sites.
 
 ## Quick start
 
-1. Visit [apexracing.cn](https://apexracing.cn/) and download the latest TrackLogic installer.
+1. Visit [tracklogic.cn](https://tracklogic.cn/) and download the latest TrackLogic installer.
 2. Install and launch TrackLogic, then sign in or create an account.
 3. Start iRacing and enter a practice, qualifying, or race session.
 4. Make sure iRacing is allowed to save telemetry to disk.
@@ -104,7 +104,7 @@ The official website is the source for the current version, installer, compatibi
 
 ### Which simulators are supported?
 
-The current release focuses on iRacing. Support for other simulators depends on the release and should be confirmed on the [official website](https://apexracing.cn/) or in the client.
+The current release focuses on iRacing. Support for other simulators depends on the release and should be confirmed on the [official website](https://tracklogic.cn/) or in the client.
 
 ### Why is there no telemetry record after driving?
 
@@ -116,7 +116,7 @@ This repository contains user documentation for TrackLogic. It does not mean tha
 
 ### Where can I get updates and support?
 
-Visit [apexracing.cn](https://apexracing.cn/) for the latest installer, release information, and official support links.
+Visit [tracklogic.cn](https://tracklogic.cn/) for the latest installer, release information, and official support links.
 
 ## Search terms
 
